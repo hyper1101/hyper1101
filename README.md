@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Aymane Chahboune and I'm a ML and Data science student, from Morocco</h2>
+<h2 align="left">Hi👋! I'm a ML and Data science student, from Morocco</h2>
 
 ###
 
