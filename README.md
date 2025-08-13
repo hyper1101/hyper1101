@@ -1,9 +1,6 @@
 <h2 align="left">Hi👋! I'm a ML and Data science student, from Morocco</h2>
 
 ###
-
-<h3 align="center">"You look lively. Did something good happen?"</h3>
-
 ###
 
 <br clear="both">
